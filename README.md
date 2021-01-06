@@ -1,2 +1,2 @@
 # RevengeOfPrometheus
-Old school text-based adventure game based on OOP concepts and iteration algorithms made in Java.
+This is an old school text based adventure game called Revenge of Prometheus. The program is mainly based on object-oriented programming concepts; abstraction, inheritance, encapsulation, and object manipulations. Iteration algorithms and a little math is used throughout the program. The story is an alternative scenario for the Greek Mythology character Prometheus. The entire program took 3 days to design and write by myself. See the class and method documentation, UML, and the gameplay algorithm diagrams for better understanding. See the game/RevengeOfPrometheus.java file for the actual game code.
